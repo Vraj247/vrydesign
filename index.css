@@ -1,0 +1,857 @@
+.vikas-raj-yadav {
+  position: relative;
+  display: inline-block;
+  min-width: 124px;
+  white-space: nowrap;
+}
+<<<<<<< HEAD
+.about {
+=======
+.say-hello {
+
+>>>>>>> Incoming
+  position: relative;
+<<<<<<< HEAD
+  font-weight: 500;
+=======
+  font-size: var(--font-size-xs);
+  text-decoration: underline;
+  color: var(--light-gray);
+
+>>>>>>> Incoming
+  display: inline-block;
+<<<<<<< HEAD
+  min-width: 41px;
+=======
+  min-width: 52px;
+
+>>>>>>> Incoming
+}
+.about-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+}
+.vikas-raj-yadav-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+<<<<<<< HEAD
+.frame-wrapper {
+=======
+.top-nav {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+<<<<<<< HEAD
+  justify-content: flex-start;
+  padding: 56.5px var(--padding-base) 26.5px;
+=======
+  justify-content: center;
+  padding: 40px var(--padding-base) var(--padding-5xl);
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.designer-working-on-the-inter {
+  font-weight: 200;
+=======
+.designer-working-on {
+
+>>>>>>> Incoming
+  color: var(--white);
+}
+.multi-disciplinary-designer-w-container {
+<<<<<<< HEAD
+  margin: 0;
+  width: 343px;
+=======
+  flex: 1;
+
+>>>>>>> Incoming
+  position: relative;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  max-width: 100%;
+  color: var(--color-orangered);
+  font-family: inherit;
+}
+<<<<<<< HEAD
+.frame-parent {
+  flex: 1;
+=======
+.hero-text {
+  align-self: stretch;
+
+>>>>>>> Incoming
+  display: flex;
+<<<<<<< HEAD
+  flex-direction: column;
+=======
+  flex-direction: row;
+
+>>>>>>> Incoming
+  align-items: center;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  gap: var(--gap-29xl);
+=======
+  padding: 60px var(--padding-base);
+  box-sizing: border-box;
+
+>>>>>>> Incoming
+  max-width: 100%;
+<<<<<<< HEAD
+=======
+  font-size: 34px;
+  color: #fa4f01;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.vrydesign-inner {
+=======
+.top-header {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+<<<<<<< HEAD
+  flex-direction: row;
+  align-items: flex-start;
+=======
+  flex-direction: column;
+  align-items: center;
+
+>>>>>>> Incoming
+  justify-content: flex-start;
+  padding: 0px 0px 32px;
+  box-sizing: border-box;
+  max-width: 100%;
+  color: var(--white);
+}
+<<<<<<< HEAD
+.frame-child {
+=======
+.content-box-child {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  background-color: var(--color-gray-300);
+}
+.work {
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  min-width: 44px;
+}
+.product-design-design {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 140%;
+  font-weight: 500;
+  color: var(--white);
+}
+.work-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.image-2-icon {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  border-radius: var(--br-6xs);
+  object-fit: cover;
+  min-height: 40px;
+}
+.business-insider-india {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+}
+.present {
+  position: relative;
+  font-size: var(--font-size-sm);
+<<<<<<< HEAD
+  color: var(--color-gray-100);
+=======
+  color: var(--light-gray);
+
+>>>>>>> Incoming
+  display: inline-block;
+  min-width: 100px;
+}
+.job {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-xl) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-11xs);
+  min-width: 190px;
+}
+.first {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0px;
+  gap: var(--gap-3xs);
+}
+.hdfc-bank {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 88px;
+}
+.div {
+  position: relative;
+  font-size: var(--font-size-sm);
+<<<<<<< HEAD
+  color: var(--color-gray-100);
+=======
+  color: var(--light-gray);
+
+>>>>>>> Incoming
+  display: inline-block;
+  min-width: 84px;
+}
+.first1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0px;
+  gap: var(--gap-3xs);
+  color: var(--white);
+}
+.paytm {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 50px;
+}
+.div2 {
+  width: 100px;
+  position: relative;
+  font-size: var(--font-size-sm);
+<<<<<<< HEAD
+  color: var(--color-gray-100);
+=======
+  color: var(--light-gray);
+
+>>>>>>> Incoming
+  display: inline-block;
+}
+.first-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  gap: var(--gap-10xl);
+=======
+  gap: 29px;
+
+>>>>>>> Incoming
+  color: var(--color-linen);
+}
+.work-section {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+<<<<<<< HEAD
+.rectangle-parent {
+=======
+.content-box {
+
+>>>>>>> Incoming
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.vrydesign-child {
+=======
+.social-links {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+<<<<<<< HEAD
+=======
+  color: var(--color-gray-100);
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+=======
+.top-header-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  color: var(--white);
+}
+
+>>>>>>> Incoming
+.projects {
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  min-width: 67px;
+}
+.projects-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+<<<<<<< HEAD
+  color: var(--color-gray-200);
+=======
+  color: var(--color-gray-100);
+
+>>>>>>> Incoming
+}
+.current {
+  position: relative;
+  font-size: var(--font-size-sm);
+<<<<<<< HEAD
+  color: var(--color-gray-100);
+=======
+  color: var(--light-gray);
+
+>>>>>>> Incoming
+  display: inline-block;
+  min-width: 99px;
+}
+.job5 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-xl) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-11xs);
+  max-width: 100%;
+}
+.job4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.first-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.job7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-xl) 0px 0px;
+  gap: var(--gap-11xs);
+}
+.first-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div3 {
+  position: relative;
+  font-size: var(--font-size-sm);
+<<<<<<< HEAD
+  color: var(--color-gray-100);
+=======
+  color: var(--light-gray);
+
+>>>>>>> Incoming
+  display: inline-block;
+  min-width: 33px;
+}
+.paytm-travel {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 102px;
+}
+.paytm-postpaid {
+  position: relative;
+  font-size: var(--font-size-sm);
+<<<<<<< HEAD
+  color: var(--color-gray-100);
+=======
+  color: var(--light-gray);
+
+>>>>>>> Incoming
+  display: inline-block;
+  min-width: 81px;
+}
+.paytm-postpaid1 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 123px;
+}
+.grappus-studios1 {
+  position: relative;
+  font-size: var(--font-size-sm);
+<<<<<<< HEAD
+  color: var(--color-gray-100);
+=======
+  color: var(--light-gray);
+
+>>>>>>> Incoming
+  display: inline-block;
+  min-width: 80px;
+}
+.uber-club {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 79px;
+}
+.div4 {
+  position: relative;
+  font-size: var(--font-size-sm);
+<<<<<<< HEAD
+  color: var(--color-gray-100);
+=======
+  color: var(--light-gray);
+
+>>>>>>> Incoming
+  display: inline-block;
+  min-width: 32px;
+}
+.work-section1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  max-width: 100%;
+}
+.work-section-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+  color: var(--color-linen);
+}
+<<<<<<< HEAD
+=======
+.experiments {
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  min-width: 103px;
+}
+
+>>>>>>> Incoming
+.socials {
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  min-width: 59px;
+}
+.resume {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 54px;
+}
+.twitter {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 48px;
+}
+.linkedin {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 57px;
+}
+.github {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 46px;
+}
+.instagram {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 68px;
+}
+.email {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 36px;
+}
+<<<<<<< HEAD
+.resume-parent {
+=======
+.github-parent {
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+=======
+  padding: 0px 0px var(--padding-base);
+
+>>>>>>> Incoming
+  gap: var(--gap-5xl);
+<<<<<<< HEAD
+=======
+}
+.linkedin-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.vikas-raj-yadav-name {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+
+>>>>>>> Incoming
+  font-size: var(--font-size-sm);
+  color: var(--color-linen);
+}
+<<<<<<< HEAD
+.socials-parent {
+=======
+.work-website-info {
+  flex: 1;
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+<<<<<<< HEAD
+=======
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.vrydesign-inner1 {
+=======
+.figma1 {
+  text-decoration: underline;
+}
+.figma {
+  color: inherit;
+}
+.this-website-is-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+}
+.vikas-raj-yadav1 {
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 108px;
+}
+.copyright-2014- {
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  text-align: right;
+  display: inline-block;
+  min-width: 108px;
+}
+.vikas-raj-yadav-group {
+  align-self: stretch;
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: row;
+<<<<<<< HEAD
+=======
+  flex-wrap: wrap;
+
+>>>>>>> Incoming
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+=======
+  gap: var(--gap-3xs);
+}
+.work-section3 {
+  flex: 1;
+  border-radius: var(--br-6xs);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  max-width: 100%;
+}
+.work-section-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+>>>>>>> Incoming
+  padding: 0px var(--padding-base);
+<<<<<<< HEAD
+=======
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-xs);
+  color: var(--light-gray);
+
+>>>>>>> Incoming
+}
+.vrydesign {
+  width: 375px;
+<<<<<<< HEAD
+  background-color: var(--color-gray-400);
+=======
+  background-color: #020404;
+  border-right: 1px solid var(--color-gray-200);
+  border-left: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: 0px 0px 60px;
+  box-sizing: border-box;
+  gap: var(--gap-29xl);
+=======
+  padding: 0px 0px var(--padding-5xl);
+  gap: 48px;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.web {
+=======
+.home {
+
+>>>>>>> Incoming
+  width: 100%;
+  position: relative;
+<<<<<<< HEAD
+  background-color: #101010;
+=======
+  background-color: #000;
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+<<<<<<< HEAD
+  padding: 0px var(--padding-xl) 0px 21px;
+=======
+  padding: 0px var(--padding-xl);
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--heading-16-size);
+<<<<<<< HEAD
+  color: var(--color-gray-200);
+=======
+  color: var(--color-linen);
+
+>>>>>>> Incoming
+  font-family: var(--heading-16);
+}
+
+<<<<<<< HEAD
+@media screen and (max-width: 1200px) {
+  .vrydesign {
+    padding-bottom: 39px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+=======
+@media screen and (max-width: 750px) {
+
+>>>>>>> Incoming
+  .multi-disciplinary-designer-w-container {
+<<<<<<< HEAD
+    font-size: 26px;
+=======
+    font-size: 27px;
+
+>>>>>>> Incoming
+  }
+}
+<<<<<<< HEAD
+@media screen and (max-width: 750px) {
+  .vrydesign {
+    padding-bottom: 25px;
+    box-sizing: border-box;
+=======
+@media screen and (max-width: 450px) {
+  .vikas-raj-yadav-parent {
+    flex-wrap: wrap;
+
+>>>>>>> Incoming
+  }
+<<<<<<< HEAD
+}
+@media screen and (max-width: 450px) {
+=======
+
+
+>>>>>>> Incoming
+  .multi-disciplinary-designer-w-container {
+<<<<<<< HEAD
+    font-size: 19px;
+=======
+    font-size: 20px;
+
+>>>>>>> Incoming
+  }
+
+<<<<<<< HEAD
+  .frame-parent {
+    gap: 24px 48px;
+=======
+  .hero-text {
+    padding-top: var(--padding-20xl);
+    padding-bottom: var(--padding-20xl);
+    box-sizing: border-box;
+
+>>>>>>> Incoming
+  }
+
+  .work-section {
+    gap: 20px 40px;
+  }
+
+<<<<<<< HEAD
+  .work-section1 {
+=======
+  .work-website-info {
+
+>>>>>>> Incoming
+    gap: 20px 40px;
+  }
+
+<<<<<<< HEAD
+=======
+  .work-section3 {
+    gap: 20px 40px;
+  }
+
+
+>>>>>>> Incoming
+  .vrydesign {
+    gap: 24px 48px;
+  }
+}

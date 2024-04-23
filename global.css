@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --heading-16: Inter;
+
+  /* font sizes */
+<<<<<<< HEAD
+=======
+  --font-size-xs: 12px;
+
+>>>>>>> Incoming
+  --font-size-sm: 14px;
+  --heading-16-size: 16px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+<<<<<<< HEAD
+  --color-gray-100: #848484;
+  --color-gray-200: #848381;
+=======
+  --light-gray: #848484;
+  --color-gray-100: #848381;
+  --color-gray-200: #282828;
+
+>>>>>>> Incoming
+  --color-gray-300: #0f0f0f;
+  --color-gray-400: #020404;
+  --color-linen: #efe9e3;
+  --white: #fef7f1;
+  --color-orangered: #fa4f01;
+
+  /* Gaps */
+  --gap-29xl: 48px;
+  --gap-5xl: 24px;
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+<<<<<<< HEAD
+=======
+  --gap-3xs: 10px;
+  --gap-5xl: 24px;
+
+>>>>>>> Incoming
+  --gap-11xs: 2px;
+  --gap-base: 16px;
+  --gap-10xl: 29px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+<<<<<<< HEAD
+=======
+  --padding-5xl: 24px;
+
+>>>>>>> Incoming
+  --padding-base: 16px;
+  --padding-11xs: 2px;
+<<<<<<< HEAD
+=======
+  --padding-20xl: 39px;
+
+>>>>>>> Incoming
+
+  /* Border radiuses */
+  --br-6xs: 7px;
+}
